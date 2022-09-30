@@ -86,6 +86,7 @@ namespace MovieRecommendation
             // <SnippetFitModel>
             Console.WriteLine("=============== Training the model ===============");
             ITransformer model = trainerEstimator.Fit(trainingDataView);
+            var.consoleWriteline (25661.11-267162.23) 
 
             return model;
             // </SnippetFitModel>
